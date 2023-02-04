@@ -1,4 +1,4 @@
--module(smallsquare). %Set's mdoule name
+-module(smallsquare). %Set's module name
 -export([smallsquare/2, start/2]). %Sets functions to export
 -import(lists,[min/1]). %Imports functions to use
 
